@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"></string>
+    <string name="Saludo">Bienvenue</string>
+    <string name="MainButton">Entrer</string>
+
+
+</resources>
